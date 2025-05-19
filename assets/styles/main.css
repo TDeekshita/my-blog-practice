@@ -16,3 +16,6 @@ button.subscribe {
 button.subscribe:hover {
   background-color: #555555;
 }
+header {
+  margin-bottom: 20px;
+}
