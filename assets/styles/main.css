@@ -19,3 +19,13 @@ button.subscribe:hover {
 header {
   margin-bottom: 20px;
 }
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+footer a {
+  color: #333;
+  text-decoration: none;
+}
