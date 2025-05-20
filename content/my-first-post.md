@@ -1,3 +1,13 @@
-# My First Blog Post
+/* Subscribe Button */
+.subscribe-button {
+    background-color: #4CAF50;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
 
-This is the content of my first blog post!
+.subscribe-button:hover {
+    background-color: #45a049;
+}
