@@ -1,2 +1,4 @@
 pytest
 requests
+requests==2.18.0
+pytest
